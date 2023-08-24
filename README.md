@@ -1,2 +1,2 @@
 # InCheck
-Instagram Checker Changlog
+Instagram Checker Changelog
