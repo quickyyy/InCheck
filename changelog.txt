@@ -1,1 +1,8 @@
-Created InCheck
+Rewrited InstagramChecker
+Reworked proxy/Added a socks5 support
+Some UI changes
+Reorganized files
+Added logic to change proxy
+Added writing good account in files
+Some optimization
+Added settings.py
