@@ -1,1 +1,3 @@
-W/o changelog for now...
+Reworked telegram notify system
+Added key system
+Reworked script logic
