@@ -1,3 +1,3 @@
-Reworked telegram notify system
-Added key system
-Reworked script logic
+Added timeout to request
+Added timeout setting ot request
+Some another changes
